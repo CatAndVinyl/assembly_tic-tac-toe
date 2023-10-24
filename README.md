@@ -16,7 +16,7 @@ To get started, clone this repository to your local machine. Open your terminal 
 
 ```shell
 git clone https://github.com/YourUsername/N-Square-Tic-Tac-Toe.git
-
+```
 Running the Code
 
 1. Open SPIM (the MIPS simulator).
