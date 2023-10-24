@@ -17,14 +17,14 @@ To get started, clone this repository to your local machine. Open your terminal 
 ```shell
 git clone https://github.com/YourUsername/N-Square-Tic-Tac-Toe.git
 ```
-Running the Code
+## Running the Code
 
 1. Open SPIM (the MIPS simulator).
-2. Load the provided assembly file, typically with a `.s` extension, into the simulator.
+2. Load the provided assembly file, typically with a `.asm` extension, into the simulator.
 3. Run the simulation. Depending on your specific simulator, there may be different ways to do this.
 4. Follow the on-screen instructions to play the game.
 
-How to Play
+## How to Play
 
 1. Launch the game following the instructions mentioned in the "Running the Code" section.
 2. You will be prompted to enter the size of the game board. Choose an integer value for N (e.g., 3 for traditional tic-tac-toe or any other size you prefer).
@@ -33,16 +33,14 @@ How to Play
 5. The objective is to get N of your symbols in a row, column, or diagonal.
 6. The game will announce the winner or declare a draw when the board is full and no one has won.
 
-Author
+## Author
 
 - Matthew L.
 
-License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-
-Special thanks to [List Any Dependencies or References Here]
+## Notes
 
 Feel free to customize this README to fit the specific details of your project, including your name, the author, any dependencies or references, and any other relevant information. Additionally, you may want to add information about how the game logic works or any specific features unique to your implementation.
