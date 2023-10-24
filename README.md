@@ -15,7 +15,7 @@ To run this code, you'll need a MIPS32 Assembly environment, such as the MIPS si
 To get started, clone this repository to your local machine. Open your terminal and run the following command:
 
 ```shell
-git clone https://github.com/YourUsername/N-Square-Tic-Tac-Toe.git
+git clone https://github.com/CatAndVinyl/N-Square-Tic-Tac-Toe.git
 ```
 ## Running the Code
 
