@@ -30,8 +30,9 @@ git clone https://github.com/YourUsername/N-Square-Tic-Tac-Toe.git
 2. You will be prompted to enter the size of the game board. Choose an integer value for N (e.g., 3 for traditional tic-tac-toe or any other size you prefer).
 3. The game will start with an empty N x N board.
 4. Players take turns to place their symbols (e.g., "X" and "O") on the board.
-5. The objective is to get N of your symbols in a row, column, or diagonal.
-6. The game will announce the winner or declare a draw when the board is full and no one has won.
+5. When prompted, X's and O's are placed by entering a coordinate pair (row and column) indexed from 0. Ex: 0 4
+6. The objective is to get N of your symbols in a row, column, or diagonal.
+7. The game will announce the winner or declare a draw when the board is full and no one has won.
 
 ## Author
 
